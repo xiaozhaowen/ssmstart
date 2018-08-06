@@ -1,7 +1,9 @@
-简单的ssm整合
+##简单的ssm整合
 
-数据库表
+####数据库表
 
+
+```
 DROP TABLE IF EXISTS `role`;
 
 CREATE TABLE `role` (
@@ -20,3 +22,6 @@ VALUES
 
 /*!40000 ALTER TABLE `role` ENABLE KEYS */;
 UNLOCK TABLES;
+
+```
+
