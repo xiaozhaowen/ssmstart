@@ -1,5 +1,7 @@
 #简单的ssm整合
 
+
+程序运行只需要在你的数据库中有如下的一张表，然后修改 src/main/resources/jdbc.properties 的配置为你的数据库连接即可。
 数据库表
 
 
